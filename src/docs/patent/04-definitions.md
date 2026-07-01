@@ -91,6 +91,16 @@ Valuation Events may occur:
 
 ---
 
+# Valuation Reference Date
+
+The date and time designated under the applicable insurance policy for determining the Market Value used for a particular insurance function, including but not limited to premium determination, claim settlement, underwriting, or policy administration.
+
+For claim settlement purposes, the Valuation Reference Date will ordinarily be the Date of Loss. However, the insurer may designate an alternative reference date or time in accordance with the terms of the applicable policy, provided that such designation is applied consistently and in accordance with the insurer's approved valuation methodology.
+
+The disclosed invention is not limited to any particular Valuation Reference Date and may accommodate different insurer business rules governing the selection and application of such date.
+
+---
+
 # Time-Weighted Average Market Value
 
 The weighted average of one or more Market Values determined during the policy period, where each Market Value is weighted according to the period of time during which it remained applicable.
