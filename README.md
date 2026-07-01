@@ -99,6 +99,10 @@ DMVI/
 
 5. The insured may obtain an auditable explanation of the valuation used to determine the claim payment.
 
+6. The Final Earned Premium is determined by applying the applicable premium rate to the Time-Weighted Average Market Value of the insured property during the policy period.
+
+7. The Deposit Premium is credited against the Final Earned Premium, resulting in either an additional premium due from the insured or a return premium payable by the insurer.
+
 ---
 
 # Guiding Principles
